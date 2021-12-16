@@ -1,0 +1,14 @@
+{
+  "name": "javademo",
+  "version": "1.0.0",
+  "description": "Adding two number",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
